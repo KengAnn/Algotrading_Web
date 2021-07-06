@@ -108,11 +108,20 @@ body {
 }
 
 #background #page #body .backtest2 {
-	background:url("../images/MR_report.png");
+	background:url("../images/stmr.png");
 	background-position:center;
 	background-repeat:no-repeat;
-	width:950px;
-	height:1000px;
+	width:1040px;
+	height:3858px;
+	overflow:hidden;
+}
+
+#background #page #body .backtest1 {
+	background:url("../images/Momentum.png");
+	background-position:center;
+	background-repeat:no-repeat;
+	width:1040px;
+	height:3858px;
 	overflow:hidden;
 }
 
